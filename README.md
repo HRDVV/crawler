@@ -13,5 +13,7 @@
     scrapy crawl <spider>
     
     想了解更多，可以去官网瞅瞅 https://docs.scrapy.org/en/latest/index.html
+
+    你可能还需要一个chrome驱动 http://chromedriver.chromium.org/downloads
     
 ```

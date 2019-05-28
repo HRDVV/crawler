@@ -1,36 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2d2742d0-e885-4456-965b-48606a3db12e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/crawler.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pipfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pipfile.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gps/gps/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gps/gps/input/gps.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gps/gps/items.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gps/gps/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gps/gps/middlewares.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gps/gps/pipelines.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gps/gps/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gps/gps/spiders/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gps/gps/spiders/gpsspg.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gps/gps/test/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gps/gps/test/gps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gps/gps/useragent.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gps/gps/utils/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gps/gps/utils/crypto.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gps/gps/utils/db.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gps/gps/utils/distance.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gps/gps/utils/handler.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gps/gps/utils/proxyer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gps/gps/utils/transform.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gps/scrapy.cfg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="2d2742d0-e885-4456-965b-48606a3db12e" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +35,7 @@
         <entry file="file://$PROJECT_DIR$/gps/gps/main.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="168">
-              <caret line="8" column="59" lean-forward="true" selection-start-line="8" selection-start-column="59" selection-end-line="8" selection-end-column="59" />
+              <caret line="8" column="59" selection-start-line="8" selection-start-column="59" selection-end-line="8" selection-end-column="59" />
               <folding>
                 <element signature="e#44#54#0" expanded="true" />
               </folding>
@@ -77,7 +48,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="189">
-                <caret line="9" column="35" lean-forward="true" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
+                <caret line="9" column="35" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
               </first_editor>
               <second_editor />
             </state>
@@ -88,7 +59,7 @@
         <entry file="file://$PROJECT_DIR$/gps/gps/spiders/gpsspg.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="231">
-              <caret line="11" column="40" lean-forward="true" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
+              <caret line="11" column="40" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
             </state>
           </provider>
         </entry>
@@ -111,8 +82,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="12" />
-    <option name="y" value="23" />
+    <option name="x" value="167" />
+    <option name="y" value="121" />
     <option name="width" value="1656" />
     <option name="height" value="963" />
   </component>
@@ -208,22 +179,22 @@
       <option name="presentableId" value="Default" />
       <updated>1558950079067</updated>
       <workItem from="1558950093216" duration="247000" />
-      <workItem from="1558950367853" duration="1980000" />
+      <workItem from="1558950367853" duration="2233000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2227000" />
+    <option name="totallyTimeSpent" value="2480000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="12" y="23" width="1656" height="963" extended-state="0" />
+    <frame x="167" y="121" width="1656" height="963" extended-state="0" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2527881" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3295063" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3295063" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -251,7 +222,7 @@
     <entry file="file://$PROJECT_DIR$/gps/gps/spiders/gpsspg.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="231">
-          <caret line="11" column="40" lean-forward="true" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
+          <caret line="11" column="40" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
         </state>
       </provider>
     </entry>
@@ -259,7 +230,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="189">
-            <caret line="9" column="35" lean-forward="true" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
+            <caret line="9" column="35" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
           </first_editor>
           <second_editor />
         </state>
@@ -268,7 +239,7 @@
     <entry file="file://$PROJECT_DIR$/gps/gps/main.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
-          <caret line="8" column="59" lean-forward="true" selection-start-line="8" selection-start-column="59" selection-end-line="8" selection-end-column="59" />
+          <caret line="8" column="59" selection-start-line="8" selection-start-column="59" selection-end-line="8" selection-end-column="59" />
           <folding>
             <element signature="e#44#54#0" expanded="true" />
           </folding>
